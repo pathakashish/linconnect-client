@@ -1,9 +1,20 @@
 linconnect-client
 =================
 
+Server
+------
+
+**Linux**
+
 Mirror Android notifications on a Linux desktop.
 
 LinConnect Server: https://github.com/hauckwill/linconnect-server/
+
+**Windows**
+
+Mirror Android notifications on windows.
+
+LinConnect windows : https://github.com/vikas0380/linconnect-windows
 
 Client Download
 ---------------
